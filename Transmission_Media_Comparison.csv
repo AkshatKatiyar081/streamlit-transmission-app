@@ -1,0 +1,13 @@
+Media Type,Speed (Mbps/Gbps),Cost (1-5),Reliability (1-5),Distance / Coverage,Interference (1-5),Notes / Use Case,cost_usd
+Optical Fiber,100 Gbps,4,5,40+ km,1,"Internet backbone, high-speed LANs",5.0
+Twisted Pair (Cat5/6),100 Mbps - 10 Gbps,2,3,100 m,3,LAN cabling,0.3
+Coaxial Cable,~1 Gbps,3,3,500 m,3,"Cable TV, legacy networks",0.5
+STP (Shielded Twisted Pair),1-10 Gbps,3,4,100 m,2,"Enterprise LANs, better EMI resistance",0.7
+WiFi (802.11ac/ax),300 Mbps - 9.6 Gbps,2,2,30-50 m,4,Wireless LAN,80.0
+Bluetooth,2-10 Mbps,1,1,10 m,5,"IoT, short-range devices",5.0
+Zigbee,250 Kbps,1,2,10-100 m,4,Low-power IoT,12.0
+Satellite,10-100 Mbps,5,2,"Global (~35,000 km)",4,"Remote areas, defense",1500.0
+Microwave (Terrestrial),1-10 Gbps,4,3,50 km (line of sight),4,"Backbone links, towers",3000.0
+Li-Fi (Light Fidelity),Up to 224 Gbps,4,3,10 m (LOS),2,Emerging indoor high-speed,500.0
+5G Mobile Network,10-20 Gbps,3,3,1-10 km,4,"Mobile broadband, IoT",600.0
+LoRaWAN,0.3-50 Kbps,1,2,2-15 km (rural),3,"Long-range IoT, smart cities",200.0
